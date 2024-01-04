@@ -1,0 +1,14 @@
+<html>
+
+<head>
+<title> Homepage </title>
+</head>
+
+<body>
+<?php
+$variable = "test test test";
+echo $variable;
+?>
+
+</body>
+</html>
